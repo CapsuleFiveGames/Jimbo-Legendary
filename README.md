@@ -1,2 +1,5 @@
-"# Jimbo-Legendary" 
-"# Jimbo-Legendary" 
+"This mod adds a new legendary joker to Balatro, it's Jimbo."
+"Jimbo:"
+"Joker value multiplies by X2 for each rare joker"
+"(Currently [X1] Mult)"
+"This legendary has an X Mult property, so it multiplies the mult, the X Mult value of the joker is multiplied by 2 for each rare joker you have in your joker slot."
